@@ -2,68 +2,131 @@
 
 ### Junior Full-Stack Developer
 
-I'm a junior full-stack developer based in Niamey, Niger, currently completing an AI-Powered Full-Stack Web Development program.
+I'm a junior full-stack developer based in **Niamey, Niger**, currently completing an **AI-Powered Full-Stack Web Development program**.
 
-I enjoy building practical web applications and learning how frontend, backend, databases and APIs work together.
+I enjoy building practical web applications and developing my skills across frontend, backend, databases, APIs, testing, and modern AI-assisted development workflows.
 
-## 🛠️ Technologies
+---
+
+## 🛠️ Technical Skills
 
 ### Frontend
-- JavaScript
-- React
-- Vite
 - HTML5
 - CSS3
+- JavaScript (ES6+)
+- React
+- Vite
+- React Router
 - Tailwind CSS
 - Bootstrap
+- Redux
 
 ### Backend
 - Node.js
 - Express.js
 - REST APIs
+- JSON Server
+- JWT Authentication
 
 ### Databases
 - MySQL
 - MongoDB
 - SQL
 
+### Testing & Quality
+- Jest
+- Cypress
+- TestRigor
+- AI-assisted testing
+- Browser DevTools
+
 ### Tools
 - Git
 - GitHub
 - VS Code
 - Axios
-- Jest
-- Cypress
 - GitHub Copilot
+- Amazon Q
+- ChatGPT
+- Snyk
+
+---
 
 ## 🚀 Featured Projects
 
-### 
- Multi-User E-Commerce Marketplace
-A multi-user marketplace designed for the Nigerien market.
+### 🇳🇪 Multi-User E-Commerce Marketplace — Niger
 
-**React • Vite • Node.js • Express • MySQL • JWT**
+A multi-user e-commerce platform designed for the Nigerien market.
+
+**Technologies:** React, Vite, JavaScript, Node.js, Express.js, MySQL, Axios, JWT
+
+**Current features and development areas:**
+- Customer, seller and administrator workflows
+- Authentication
+- Product browsing and search
+- Product details
+- Shopping cart
+- Checkout
+- Order tracking
+- Seller dashboard
+- Admin shop approval
+- FCFA pricing
+- Niger-specific delivery workflows
+
+> 🚧 Frontend development in progress.
+
+---
 
 ### 💰 Personal Finance Tracker
-A JavaScript application for tracking income, expenses and transactions.
 
-**HTML • CSS • JavaScript • LocalStorage**
+A browser-based application for managing personal income, expenses and transactions.
+
+**Technologies:** HTML, CSS, JavaScript, LocalStorage
+
+- Income and expense tracking
+- Transaction management
+- Financial summaries
+- Dynamic calculations
+- Client-side data persistence
+
+---
 
 ### 💻 Developer Portfolio
-My personal developer portfolio.
 
-**React • Vite • JavaScript**
+A personal portfolio designed to showcase my development projects, technical skills and professional experience.
+
+**Technologies:** React, Vite, JavaScript, CSS
+
+---
 
 ## 📚 Currently Learning
 
 - Full-stack web development
-- Backend architecture
-- Testing
-- API development
+- React application architecture
+- Backend development with Node.js and Express
+- REST API development
+- MySQL and database design
+- Automated testing
 - AI-assisted software development
+- Software development best practices
+
+---
+
+## 🎯 Career Goal
+
+I'm looking for opportunities to contribute to **real-world software projects**, collaborate with experienced developers, receive technical feedback, and continue growing as a full-stack developer.
+
+I'm particularly interested in **remote opportunities and international development teams**.
+
+---
 
 ## 📫 Connect With Me
 
-- Portfolio: [your portfolio]
-- LinkedIn: https://www.linkedin.com/in/-hama/
-- Email: learner22eng@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/-hama/
+- 📧 Email: learner22eng@gmail.com
+
+---
+
+### 📍 Location
+
+**Niamey, Niger — UTC+1**
